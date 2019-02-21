@@ -1,0 +1,11 @@
+
+Tutorial on using the application
+1. Click the project workshop with the application type
+2. Finish
+
+Coding tutorial
+1. Click the project workshop with type C++ source
+2. DEV C ++ (I use the DEV C ++ Application)
+3.Coding
+4. If you want to change, please match your own needs
+5. Finish

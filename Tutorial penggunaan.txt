@@ -1,0 +1,10 @@
+Tutorial penggunaan aplikasinya
+1.Klik project bengkel dengan type application
+2.Selesai
+
+Tutorial coding
+1.Klik project bengkel deangan type C++ source
+2.DEV C++(saya menggunakan Aplikasi DEV C++)
+3.Codinglah
+4.Bila ingin di ubah,silahkan sesuai kebutuhan sendiri
+5.Selesai
